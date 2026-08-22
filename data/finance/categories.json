@@ -1,0 +1,83 @@
+{
+  "version": 1,
+  "updatedAt": null,
+  "items": [
+    {
+      "id": "cat_food",
+      "name": "餐饮",
+      "type": "expense",
+      "icon": "🍜",
+      "color": "#C4956A"
+    },
+    {
+      "id": "cat_transport",
+      "name": "交通",
+      "type": "expense",
+      "icon": "🚇",
+      "color": "#8E9CB4"
+    },
+    {
+      "id": "cat_shopping",
+      "name": "购物",
+      "type": "expense",
+      "icon": "🛍️",
+      "color": "#B99E6B"
+    },
+    {
+      "id": "cat_entertainment",
+      "name": "娱乐",
+      "type": "expense",
+      "icon": "🎬",
+      "color": "#9E8BA9"
+    },
+    {
+      "id": "cat_housing",
+      "name": "居住",
+      "type": "expense",
+      "icon": "🏠",
+      "color": "#7DA89A"
+    },
+    {
+      "id": "cat_health",
+      "name": "健康",
+      "type": "expense",
+      "icon": "💊",
+      "color": "#C27B7B"
+    },
+    {
+      "id": "cat_education",
+      "name": "学习",
+      "type": "expense",
+      "icon": "📚",
+      "color": "#8B9A7D"
+    },
+    {
+      "id": "cat_other_expense",
+      "name": "其他支出",
+      "type": "expense",
+      "icon": "📦",
+      "color": "#8B857A"
+    },
+    {
+      "id": "cat_salary",
+      "name": "工资",
+      "type": "income",
+      "icon": "💰",
+      "color": "#7DA89A"
+    },
+    {
+      "id": "cat_bonus",
+      "name": "奖金",
+      "type": "income",
+      "icon": "🎁",
+      "color": "#D4A24A"
+    },
+    {
+      "id": "cat_other_income",
+      "name": "其他收入",
+      "type": "income",
+      "icon": "📈",
+      "color": "#8E9CB4"
+    }
+  ]
+}
